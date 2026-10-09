@@ -9,7 +9,7 @@ Offensive Security | Web Application Testing | Security Projects
 
 
 
-# Hi, I'm Ignatius Mayeku 👋
+# Hello there, I'm Ignatius Mayeku 👋
 
 I am a Cybersecurity enthusiast focused on **Offensive Security, Web Application Security and Security Operations**. But still interested in other disciplines and may explore them in future.
 
